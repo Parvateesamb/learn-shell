@@ -13,6 +13,6 @@ echo Addition of 2+3 = ${ADD}
 echo "Addition of 2+3 = ${ADD}"
 
 
-# Accessing Variable from shell
+# Accessing Variable from shell (to get value of x from shell, run, export x)
 echo x = $x
 
